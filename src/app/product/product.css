@@ -1,0 +1,20 @@
+.fa-star {
+  color: gold;
+  gap: 4px;
+}
+.fa-regular {
+  color: gray;
+}
+.font-semibold {
+  color: #ee5b29;
+}
+.text-xl {
+  color: #ee5b29;
+}
+.btn-buy {
+  background-color: #ee5b29;
+  cursor: pointer;
+}
+.btn-buy:hover {
+  background-color: #a13d19;
+}
